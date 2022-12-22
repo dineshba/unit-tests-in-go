@@ -1,12 +1,12 @@
 ### Agenda:
 - Simple Unit tests
 - Testify
-- Cyclometric complexity
+- External Dependency mocking
 - Gomock
+- Cyclometric complexity
 - Controller example with K8s client
 - Test Pyramid
 - Ginkgo
-- env test if possible
 
 Useful links:
 Generic:
